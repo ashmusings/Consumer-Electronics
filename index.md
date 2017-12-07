@@ -1,3 +1,5 @@
+<img src="C:\Users\Kirthika\Downloads\122861261.jpg" alt="hi" class="inline"/>
+
 ## Welcome to Everyday Digital Pvt Ltd
 
 Everyday Digital Pvt Limited is a professionally managed private Limited company operating under retail brands of various local and branded products adding to the formidable strength of 1000 plus employees. Everyday Digital is one of the most leading and respected consumer electronics and home appliances retail chain in India.EverydayDigital popularized several brands by creating visibility and has the distinction of being a market leader and trendsetter with continuous support from the principal companies. Reliable services are ensured through cordial customer relationships.CII and Mckinsey raved about the ABC’s brand as “More trusted than the brands it sells”.
