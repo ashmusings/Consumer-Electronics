@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Everyday Digital Pvt Ltd
 
-You can use the [editor on GitHub](https://github.com/ashmusings/Consumer-Electronics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Everyday Digital Pvt Limited is a professionally managed private Limited company operating under retail brands of various local and branded products adding to the formidable strength of 1000 plus employees. Everyday Digital is one of the most leading and respected consumer electronics and home appliances retail chain in India.EverydayDigital popularized several brands by creating visibility and has the distinction of being a market leader and trendsetter with continuous support from the principal companies. Reliable services are ensured through cordial customer relationships.CII and Mckinsey raved about the ABC’s brand as “More trusted than the brands it sells”.
+During the initial stages the consumer durable electronics were considered luxury product. While the first 30 years saw the setting up only 3 showrooms, the subsequent 4 years saw spurt of growth – an addition of 50 more showrooms through the expansions and acquisitions. By these strategic initiative for rapid expansion, by incorporating the ‘Everyday Digital’ in 1994, established its dominance in the two states on Tamil Nadu and Karnataka with more than 50 showrooms covering a retail space over 2 Lac sq.ft and boasting of a group turnover crossing Rs.500 Crores.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Leveraging Analytics On Consumer Electronics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
