@@ -1,4 +1,4 @@
-<img src="C:\Users\Kirthika\Downloads\122861261.jpg" alt="hi" class="inline"/>
+<img src="C:\Users\Kirthika\Downloads\122861261.jpg" class="inline"/>
 
 ## Welcome to Everyday Digital Pvt Ltd
 
